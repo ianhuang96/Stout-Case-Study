@@ -18,4 +18,4 @@ https://ianhuang96.github.io/Stout-Case-Study/page/index.html
 ![Stout Case Study Demo](img/Dashboard.png)
 
 #### Explanation of the dashboard
-![Stout Case Study Demo](img/Dashboard.png)
+![Stout Case Study Demo](img/explanation.png)
