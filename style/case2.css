@@ -1,0 +1,10 @@
+body {
+  background-image: url("Background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+nav {
+  font-family: 'Raleway', sans-serif; 
+  font-size: large;
+}
+
