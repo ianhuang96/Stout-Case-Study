@@ -8,7 +8,7 @@ https://ianhuang96.github.io/Stout-Case-Study/page/index.html
 #### Home page
 ![Stout Case Study Demo](img/index.png)
 
-#### Plots of Case 1
+#### Interactive Plots
 ![Stout Case Study Demo](img/Interactiveplot.png)
 
 #### Feature Engineering of Case 1
