@@ -1,6 +1,7 @@
 # Stout-Case-Study
 
 ### link:
+Please use Chrome.
 https://ianhuang96.github.io/Stout-Case-Study/page/index.html
 
 ### Demo: 
